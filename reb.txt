@@ -1,3 +1,2 @@
 1
-
-Add editng from master branche
+from master
