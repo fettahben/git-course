@@ -1,2 +1,7 @@
 1
+<<<<<<< HEAD
 from master
+=======
+
+add from branche
+>>>>>>> rebbranch
